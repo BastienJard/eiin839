@@ -25,3 +25,10 @@ C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServ
 C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
 C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
 C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+F:\SI4\SOC\eiin839\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+F:\SI4\SOC\eiin839\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+F:\SI4\SOC\eiin839\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+F:\SI4\SOC\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+F:\SI4\SOC\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+F:\SI4\SOC\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+F:\SI4\SOC\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
