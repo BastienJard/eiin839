@@ -63,6 +63,7 @@ namespace BasicServerHTTPlistener
                 HttpListenerContext context = listener.GetContext();
                 HttpListenerRequest request = context.Request;
 
+                
                 string documentContents;
                 using (Stream receiveStream = request.InputStream)
                 {
@@ -85,6 +86,8 @@ namespace BasicServerHTTPlistener
                 Console.WriteLine(request.Url.Port);
                 //get path in url 
                 Console.WriteLine(request.Url.LocalPath);
+
+                Header header = new Header(request);
 
                 // parse path in url 
                 foreach (string str in request.Url.Segments)

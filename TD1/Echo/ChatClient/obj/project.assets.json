@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SI4\\SOC\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
+      "projectUniqueName": "F:\\SI4\\SOC\\eiin839\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
       "projectName": "EchoClient",
-      "projectPath": "F:\\SI4\\SOC\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
+      "projectPath": "F:\\SI4\\SOC\\eiin839\\TD1\\Echo\\ChatClient\\EchoClient.csproj",
       "packagesPath": "C:\\Users\\Bastien\\.nuget\\packages\\",
-      "outputPath": "F:\\SI4\\SOC\\eiin839\\TP1\\Echo\\ChatClient\\obj\\",
+      "outputPath": "F:\\SI4\\SOC\\eiin839\\TD1\\Echo\\ChatClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
