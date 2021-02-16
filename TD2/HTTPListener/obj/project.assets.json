@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SI4\\SOC\\eiin839\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
-      "projectName": "EchoServer",
-      "projectPath": "F:\\SI4\\SOC\\eiin839\\TD1\\Echo\\ChatServer\\EchoServer.csproj",
+      "projectUniqueName": "F:\\SI4\\SOC\\eiin839\\TD2\\HTTPListener\\HTTPListener.csproj",
+      "projectName": "HTTPListener",
+      "projectPath": "F:\\SI4\\SOC\\eiin839\\TD2\\HTTPListener\\HTTPListener.csproj",
       "packagesPath": "C:\\Users\\Bastien\\.nuget\\packages\\",
-      "outputPath": "F:\\SI4\\SOC\\eiin839\\TD1\\Echo\\ChatServer\\obj\\",
+      "outputPath": "F:\\SI4\\SOC\\eiin839\\TD2\\HTTPListener\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

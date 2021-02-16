@@ -5,7 +5,7 @@ using System.Net;
 using System.Text;
 using System.Web;
 
-namespace BasicServerHTTPlistener
+namespace BasicWebServerUrlParser
 {
     internal class Program
     {
@@ -87,7 +87,6 @@ namespace BasicServerHTTPlistener
                 //get path in url 
                 Console.WriteLine(request.Url.LocalPath);
 
-                Header header = new Header(request);
 
                 // parse path in url 
                 foreach (string str in request.Url.Segments)
