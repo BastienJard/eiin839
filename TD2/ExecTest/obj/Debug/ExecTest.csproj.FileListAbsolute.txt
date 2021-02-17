@@ -5,3 +5,9 @@ D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\bin\Deb
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\bin\Debug\ExecTest.pdb
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.exe
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.pdb
+F:\SI4\SOC\eiin839\TD2\ExecTest\bin\Debug\ExecTest.exe.config
+F:\SI4\SOC\eiin839\TD2\ExecTest\bin\Debug\ExecTest.exe
+F:\SI4\SOC\eiin839\TD2\ExecTest\bin\Debug\ExecTest.pdb
+F:\SI4\SOC\eiin839\TD2\ExecTest\obj\Debug\ExecTest.csproj.CoreCompileInputs.cache
+F:\SI4\SOC\eiin839\TD2\ExecTest\obj\Debug\ExecTest.exe
+F:\SI4\SOC\eiin839\TD2\ExecTest\obj\Debug\ExecTest.pdb
