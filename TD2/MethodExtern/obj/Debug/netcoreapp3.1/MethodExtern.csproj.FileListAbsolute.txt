@@ -4,6 +4,7 @@ F:\SI4\SOC\eiin839\TD2\MethodExtern\bin\Debug\netcoreapp3.1\MethodExtern.runtime
 F:\SI4\SOC\eiin839\TD2\MethodExtern\bin\Debug\netcoreapp3.1\MethodExtern.runtimeconfig.dev.json
 F:\SI4\SOC\eiin839\TD2\MethodExtern\bin\Debug\netcoreapp3.1\MethodExtern.dll
 F:\SI4\SOC\eiin839\TD2\MethodExtern\bin\Debug\netcoreapp3.1\MethodExtern.pdb
+F:\SI4\SOC\eiin839\TD2\MethodExtern\obj\Debug\netcoreapp3.1\MethodExtern.csprojAssemblyReference.cache
 F:\SI4\SOC\eiin839\TD2\MethodExtern\obj\Debug\netcoreapp3.1\MethodExtern.AssemblyInfoInputs.cache
 F:\SI4\SOC\eiin839\TD2\MethodExtern\obj\Debug\netcoreapp3.1\MethodExtern.AssemblyInfo.cs
 F:\SI4\SOC\eiin839\TD2\MethodExtern\obj\Debug\netcoreapp3.1\MethodExtern.csproj.CoreCompileInputs.cache

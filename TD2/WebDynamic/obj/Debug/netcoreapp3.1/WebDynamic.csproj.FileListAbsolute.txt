@@ -4,10 +4,10 @@ F:\SI4\SOC\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.runtimeconf
 F:\SI4\SOC\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.runtimeconfig.dev.json
 F:\SI4\SOC\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.dll
 F:\SI4\SOC\eiin839\TD2\WebDynamic\bin\Debug\netcoreapp3.1\WebDynamic.pdb
+F:\SI4\SOC\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.csprojAssemblyReference.cache
 F:\SI4\SOC\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.AssemblyInfoInputs.cache
 F:\SI4\SOC\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.AssemblyInfo.cs
 F:\SI4\SOC\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.csproj.CoreCompileInputs.cache
 F:\SI4\SOC\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.dll
 F:\SI4\SOC\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.pdb
 F:\SI4\SOC\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.genruntimeconfig.cache
-F:\SI4\SOC\eiin839\TD2\WebDynamic\obj\Debug\netcoreapp3.1\WebDynamic.csprojAssemblyReference.cache

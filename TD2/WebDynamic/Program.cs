@@ -56,12 +56,12 @@ namespace WebDynamic
                         documentContents = readStream.ReadToEnd();
                     }
                 }
-
                 // get url 
                 Console.WriteLine($"Received request for {request.Url}");
                 string result = "";
-                //Récupère le nom de la méthode à appeler.
+                //On récupère le nom de la méthode à appeler.
                 string methodName = request.Url.Segments[request.Url.Segments.Length - 1];
+                //On essaye d'appeller la méthode.
                 try
                 {
                     Type type = typeof(Mymethods);
@@ -71,6 +71,7 @@ namespace WebDynamic
                         new Object[] { HttpUtility.ParseQueryString(request.Url.Query).Get("param1"), 
                             HttpUtility.ParseQueryString(request.Url.Query).Get("param2") });
                 }
+                // On tombe dans un cas d'erreur quand celle-ci n'existe pas
                 catch (NullReferenceException e)
                 {
                     Console.Write("Method not found");
